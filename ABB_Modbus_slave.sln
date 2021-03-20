@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABB_Modbus_slave", "ModbusTCPSlave\ABB_Modbus_slave.csproj", "{7BBDC823-A143-46AC-87D9-5F73DCCED222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBDC823-A143-46AC-87D9-5F73DCCED222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBDC823-A143-46AC-87D9-5F73DCCED222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBDC823-A143-46AC-87D9-5F73DCCED222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBDC823-A143-46AC-87D9-5F73DCCED222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD250C85-D6C0-486C-B2DB-35B961707CE7}
+	EndGlobalSection
+EndGlobal
